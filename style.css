@@ -43,6 +43,7 @@ h2{
 .experience{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    margin-top: 150px;
 }
 .experience-item{
     width: 40%;
