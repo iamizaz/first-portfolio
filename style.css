@@ -63,6 +63,13 @@ h2{
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
+.semantic{
+    margin: 5%;
+    padding: 10px;
+}
+iframe{
+    margin: 5%;
+}
 footer p{
     text-align: center;
 }
